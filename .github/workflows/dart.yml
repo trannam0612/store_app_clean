@@ -2,8 +2,9 @@
 # They are provided by a third-party and are governed by
 # separate terms of service, privacy policy, and support
 # documentation.
-
-name: Dart
+name: Flutter Workflow
+env:
+  FLUTTER_VERSION: "2.2.3"
 
 on:
   push:
